@@ -4,7 +4,7 @@ title: Velira Privacy Policy
 
 # Velira Privacy Policy
 
-**Last updated: 1 October 2026**
+**Last updated: 2 October 2026**
 
 Velira is a balance journal for private language tutors: lessons, payments and
 what each student has left. This policy explains what information Velira uses,
@@ -89,19 +89,13 @@ students informed (Article 6(1)(f) GDPR).
   in it. Six weeks back and two weeks ahead are read once, on the phone: event
   title, start, end and whether it is all-day. Nothing is kept in sync and
   nothing is sent.
-- **Internet** — for a student's page and for Google Play.
-
-## Payments for Velira
-
-Velira's plan is bought through **Google Play**, which processes the payment
-under Google's own terms and privacy policy. Velira receives only whether a
-plan is active. Students never pay.
+- **Internet** — for a student's page.
 
 ## Service providers and where data is processed
 
 - **Vercel**, hosting the student pages in Frankfurt, Germany
 - **Neon**, the PostgreSQL database for student pages, in Frankfurt, Germany
-- **Google**, for Android backup and Google Play
+- **Google**, for Android backup
 
 These providers may process limited technical request information needed to
 deliver and protect their services. Velira's own code does not log visitors.
