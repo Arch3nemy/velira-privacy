@@ -38,7 +38,8 @@ In the app's private storage on the tutor's phone:
 - for a student whose page is shared: that page's identifier and the secret
   that lets this phone update it
 - preferences: appearance, language, the trial start date, how the tutor
-  teaches
+  teaches, their usual price, and — if they write it — how they are paid (a
+  card number, an IBAN or a payment link, in their own words)
 
 Uninstalling the app deletes all of it from the phone.
 
@@ -64,6 +65,8 @@ student only:
 - the student's name, price per lesson, lesson length and time zone
 - the current balance in lessons
 - up to 20 coming lessons and up to 30 recent journal entries
+- how the tutor is paid, if they wrote it in Settings, so the student can copy
+  it from the page
 
 The app sends an updated copy after each change. The page is readable by anyone
 with its link; the link contains a random identifier. The server stores the
